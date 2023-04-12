@@ -1,0 +1,43 @@
+#puzzle{
+    width:450px;
+    height:450px;
+    padding:10px;
+    margin-left: 300px;
+    
+}
+#puzzle input{
+    width:50px;
+    height:50px;
+    box-sizing: border-box;
+    border-spacing: 0;
+    border:1px black solid;
+    
+}
+#heading{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:red;
+}
+
+body{
+    background-color: aquamarine;
+    margin: 28px;
+}
+
+
+#solve{
+    padding:10px;
+    background-color:rgb(230, 111, 68);
+    color:aliceblue;
+    border-radius: 10px;
+    margin-left: 300px;
+}
+
+#replay{
+    padding:10px;
+    background-color: rgb(230, 111, 68);
+    color:aliceblue;
+    border-radius: 10px;
+    margin-left:30px;
+}
